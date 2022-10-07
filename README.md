@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Javier Rodríguez (@JaviRodLu), Computer Engineering student at Universidad de Alcalá.
+- 👋 Hi, I’m Javi Rodríguez (@JaviRodLu), Computer Engineering student at Universidad de Alcalá.
 - 👀 I’m interested in coding in general, but especially in Web. I'd like to know more about data science, 'cause I think it can be useful and interesting.
 - 🌱 I’m currently learning Java, C/C++ and much more, and I'd like to deepen in Python, because it was the language I started coding with.
 
