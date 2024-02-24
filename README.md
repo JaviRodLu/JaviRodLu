@@ -3,8 +3,8 @@
 - 🌱 Currently learning Python, Flask, JavaScript and TypeScript in order to make my End-of-degree project.
 
 - **PREVIOUSLY**
--   **2022-10-19:**
--     🌱 I’m currently learning Java, C/C++ and much more, and I'd like to deepen in Python, because it was the language I started coding with.
+- ##**2022-10-19:**
+- ###🌱 I’m currently learning Java, C/C++ and much more, and I'd like to deepen in Python, because it was the language I started coding with.
 -      
 
 <!---
