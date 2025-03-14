@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Javi Rodríguez (@JaviRodLu), Computer Engineering student at Universidad de Alcalá.
-- 👀 Interested in coding in general, but especially in Web, area in which I'd like to dive in 'cause I find it really useful.
-- 🌱 Currently learning Python, Flask, JavaScript and TypeScript in order to do my End-of-degree project.
+- 👋 Hi, I’m Javi Rodríguez (@JaviRodLu), Computer Engineer and Master in Agile Web Software Development student at Universidad de Alcalá.
+- 💼 Software Engineer at Indra. Backend developer for public transport ticketing systems. 
+- 👀 Interested in coding in general, but especially in Web, area in which I'm diving cause I find it really useful.
+- 🌱 Currently learning Spring Boot, JavaScript, React, Vue and Angular among more other technologies.
 
 <!---
 JaviRodLu/JaviRodLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
