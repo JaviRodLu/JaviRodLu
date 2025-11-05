@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Javi Rodríguez (@JaviRodLu), Computer Engineer and Master in Agile Web Software Development student at Universidad de Alcalá.
+- 👋 Hi, I’m Javi Rodríguez (@JaviRodLu), Computer Engineer and Master in Agile Web Software Development from Universidad de Alcalá.
 - 💼 Software Engineer at Indra. Backend developer for public transport ticketing systems. 
 - 👀 Interested in coding in general, but especially in Web, area in which I'm diving cause I find it really useful.
 - 🌱 Currently learning Spring Boot, JavaScript, React, Vue and Angular among more other technologies.
